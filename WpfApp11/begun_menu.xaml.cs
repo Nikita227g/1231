@@ -18,7 +18,6 @@ namespace WpfApp11
     /// <summary>
     /// Логика взаимодействия для begun_menu.xaml
     /// </summary>
-    /// Hilpy Corporation ooo mmm make
     public partial class begun_menu : Page
     {
         public begun_menu()
