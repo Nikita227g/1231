@@ -47,7 +47,6 @@
                     <ComboBoxItem Content="Иван Прудов - 204 (Russia)"/>
                     <ComboBoxItem Content="Булат Сабиров - 227 (Russia)"/>
                 </ComboBox>
-                <!--asdasdadasdas Hilpy-->
                 <TextBox GotFocus="TextBox_GotFocus" LostFocus="TextBox_LostFocus" VerticalContentAlignment="Center" FontSize="15" Margin="5" Grid.Column="1" Grid.Row="2" Text="Владелец карты" Tag="Владелец карты"/>
                 <TextBox GotFocus="TextBox_GotFocus" LostFocus="TextBox_LostFocus" VerticalContentAlignment="Center" FontSize="15" Margin="5" Grid.Column="1" Grid.Row="3" Text="1234 1234 1234 1234" Tag="1234 1234 1234 1234"/>
                 <StackPanel Orientation="Horizontal" Grid.Column="1" Grid.Row="4">
